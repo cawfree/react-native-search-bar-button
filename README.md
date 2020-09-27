@@ -99,5 +99,5 @@ export default function App() {
 }
 ```
 
-## ✌️ License
+## ✌️ License
 [**MIT**](./LICENSE)
