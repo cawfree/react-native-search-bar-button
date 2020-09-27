@@ -1,6 +1,10 @@
 # react-native-search-bar-button
 🕊️ Is it a bird? ✈️ Is it a plane? No, it's a search-bar-button! ⚛️
 
+<p align="center">
+  <img src="./public/intro.gif" alt="react-native-search-bar-button"></img>
+</p>
+
 ## 🚀 Getting Started
 
 Using [**Yarn**](https://yarnpkg.com):

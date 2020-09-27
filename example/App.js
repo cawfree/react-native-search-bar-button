@@ -49,6 +49,7 @@ export default function App() {
       <SafeAreaView />
       <SearchBarButton
         style={{
+          marginTop: padding,
           marginHorizontal: padding,
           backgroundColor: "#355BCF",
         }}
