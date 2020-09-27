@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "build": "yarn ; babel src --out-dir dist ; rm -rf node_modules"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "husky": "^4.3.0",
+    "jest": "^26.4.2",
+    "leasot": "^11.3.0",
+    "prettier": "^2.1.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1"
+  },
+  "name": "react-native-search-bar-button",
+  "version": "0.0.1-alpha.0",
+  "description": "🕊️ Is it a bird? ✈️ Is it a plane? No, it's a search-bar-button! ⚛️",
+  "main": "dist",
+  "repository": "https://github.com/cawfree/react-native-search-bar-button",
+  "author": "Alex Thomas (@cawfree) <alex@getuni.app>",
+  "license": "MIT",
+  "private": false
+}
